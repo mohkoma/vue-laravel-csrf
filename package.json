@@ -1,0 +1,27 @@
+{
+  "name": "vue-laravel-csrf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "laravel",
+    "csrf",
+    "token",
+    "directive",
+    "vue-directive",
+    "vue-csrf-token"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohkoma/vue-laravel-csrf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^2.5.13"
+  }
+}
