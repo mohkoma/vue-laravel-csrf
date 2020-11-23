@@ -3,7 +3,7 @@ This Package will allow you to include the Laravel's csrf token to the forms ins
 
 ## Installation
 
-You can install this package via composer using this command:
+You can install this package via npm using this command:
 
 `npm install vue-laravel-csrf`
 
